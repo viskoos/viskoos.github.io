@@ -1,0 +1,21 @@
+
+body{
+	background: #ffffff url("images/hohli.png") no-repeat fixed center; 
+	background-size: cover;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#axis7{
+	position: absolute;
+	text-align: center;
+	top:55%;
+    left: 5%;
+		
+}
+
+#axis7:hover .larger{
+    transform: scale(2);
+    -webkit-transform: scale(2);
+    -o-transform: scale(2);
+    -moz-transform: scale(2);
+}
